@@ -1,0 +1,53 @@
+
+
+.services {
+    background-image: url(../../images/bg1.jpg);
+    background-size: cover;
+    background-position: top;
+  }
+  
+  .services .item {
+    background: #000;
+    border: 4px solid #17B9EA;
+    margin-bottom: 60px;
+  }
+  
+  .services i {
+    color: #fff;
+    margin-top: 40px;
+    position: relative;
+    top: 40px;
+  }
+  
+  .services h3 {
+    color: #17B9EA;
+    font-family: 'Niconne', cursive;
+    font-size: 2em;
+    position: relative;
+    top: 60px;
+    opacity: 0;
+  }
+  
+  .services h5 {
+    color: #9E9E9E;
+    font-family: 'Abel', sans-serif;
+    font-size: 16px;
+    margin-bottom: 35px;
+    opacity: 0;
+  }
+  
+  .services i, .services h3, .services h5 {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .services .item:hover i, .services .item:hover h3, .services .item:hover h5 {
+    top: 0;
+    opacity: 1;
+  }
+  
+  .services .item:hover {
+    border: 4px solid #F30D60;
+  }

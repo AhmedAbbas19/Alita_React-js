@@ -1,0 +1,18 @@
+/*Start Contacts*/
+
+.contacts {
+    background: #17B9EA;
+  }
+  
+  .contacts .row {
+    padding: 35px 0;
+  }
+  
+  .contacts i {
+    color: #fff;
+  }
+  
+  .contacts p {
+    font-family: 'Niconne', cursive;
+    font-size: 24px;
+  }

@@ -1,0 +1,48 @@
+/*About Us HTML Page*/
+
+.aboutus {
+    padding-bottom: 50px;
+    padding-top: 40px;
+  }
+  
+  .aboutus h1 {
+    font-family: 'Niconne', cursive;
+    font-size: 65px;
+    color: #f30d60;
+    padding-bottom: 20px;
+  }
+  
+  .aboutus ol {
+    background: white;
+  }
+  
+  .aboutus ol li:hover {
+    color: #17b9ea;
+  }
+  
+  .aboutus ol li {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+  
+  .aboutus ol li {
+    font-family: 'Niconne', cursive;
+    font-size: 38px;
+  }
+  
+  .aboutus .breadcrumb-item{
+      cursor: pointer;
+  }
+  .aboutus .active {
+    color: #17b9ea;
+  }
+  
+  .aboutus p {
+    line-height: 1.8em;
+    color: #999;
+    margin-left: 20px;
+  }
+  
+  

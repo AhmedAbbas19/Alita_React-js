@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Niconne');
+
+.header {
+    background-image: url(../../images/coffe.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .header .overlay {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .header h1 {
+    font-family: 'Niconne', cursive;
+    font-size: 135px;
+    color: #fff;
+    padding: 77px;
+    margin: 0;
+  }
+  
+  .header .row a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-family: calibri;
+    cursor: pointer;
+  }
+
+  /*Start Social*/
+
+.social {
+    padding: 77px;
+  }
+  
+  .social .ico {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    margin: auto 12px;
+  }
+  
+  .social .spotify, .social .linkedin {
+    margin: -10px 12px;
+  }
+  
+  .social .facebook {
+    background: #2D5098;
+  }
+  
+  .social .twitter {
+    background: #28AADC;
+  }
+  
+  .social .youtube {
+    background: #E62117;
+  }
+  
+  .social .spotify {
+    background: #1ED760;
+  }
+  
+  .social .linkedin {
+    background: #0073B2;
+  }
+  
+  .social a {
+    text-decoration: none;
+    color: #fff;
+    margin-top: 18px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }

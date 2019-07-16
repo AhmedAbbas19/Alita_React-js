@@ -1,0 +1,27 @@
+/*Contact US HTML Page*/
+
+.mail .form-control {
+    margin: 0 10px 10px 0;
+    display: initial;
+    width: 71.2%;
+    height: 40px;
+    color: #999;
+    border-radius: 0;
+    box-shadow: none;
+    border: 1px solid #888;
+    font-family: 'Abel', sans-serif;
+  }
+  
+  .mail .split {
+    width: 35%;
+  }
+  
+  .mail .mybtn {
+    background: #17B9EA;
+    color: #fff;
+    border: none;
+  }
+  
+  .mail form {
+    margin-bottom: 50px;
+  }

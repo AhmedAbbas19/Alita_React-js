@@ -1,0 +1,45 @@
+/*Start NavBar*/
+
+.nav {
+    background: #17B9EA;
+    height: 80px;
+    width: 100%;
+  }
+  
+  .nav i {
+    color: #fff;
+    margin: 25px auto;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .nav ul a {
+    color: #fff;
+    font-family: calibri;
+    font-size: 18px;
+    padding: 15px 33px;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  
+  .nav ul a {
+    display: inline-block;
+    margin-top: 15px;
+  }
+  
+  .small-nav {
+    position: absolute;
+    background: #17B9EA;
+    width: 100%;
+    z-index: 999;
+    height: 350px;
+    display: none;
+  }
+  
+  .nav ul a:hover, .nav .active{
+    background: #fff;
+    color: #17B9EA;
+    text-decoration: none;
+  }

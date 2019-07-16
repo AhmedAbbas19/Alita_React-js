@@ -1,0 +1,43 @@
+/*Start Portfolio HTML Page*/
+
+.portfolio ul li {
+    display: inline-block;
+    background: #17B9EA;
+    color: #fff;
+    font-family: 'Abel', sans-serif;
+    font-size: 16px;
+    margin-top: 15px;
+    padding: 10px 30px;
+    margin: 0 2px;
+    cursor: pointer;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+  
+  .portfolio ul li:hover, .portfolio .active {
+    background: #F30D60;
+  }
+  
+  .portfolio .filter {
+    margin-bottom: 30px;
+  }
+  
+  .portfolio .row {
+    margin: 30px 0 30px 0;
+  }
+  
+  .portfolio img {
+    opacity: 0.9;
+    width: 100%;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    cursor: pointer;
+  }
+  
+  .portfolio img:hover {
+    opacity: 1;
+  }

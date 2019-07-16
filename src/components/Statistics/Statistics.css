@@ -1,0 +1,35 @@
+.stat {
+    background: url(../../images/bg1.jpg) top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 60px;
+  }
+  
+  .stat h1 {
+    font-family: 'Niconne', cursive;
+    font-size: 65px;
+    color: #f30d60;
+    padding-bottom: 20px;
+  }
+  
+  .stat .stat-bar {
+    width: 65%;
+    margin: auto;
+    margin-bottom: 25px;
+  }
+  
+  .stat .progress {
+    height: 5px;
+  }
+  
+  .stat .progress-bar {
+    background: #17b9ea;
+  }
+  
+  .stat h5 {
+    color: #FFF;
+    font-weight: normal;
+  }

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+.welcome {
+    background: #fff;
+  }
+  
+  .welcome h3 {
+    font-family: 'Niconne', cursive;
+    color: #17B9EA;
+    font-size: 32px;
+  }
+  
+  .welcome h4 {
+    font-family: 'Abel', sans-serif;
+    font-size: 22px;
+    letter-spacing: 3px;
+  }
+  
+  .welcome h5 {
+    font-family: 'Abel', sans-serif;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .welcome img{
+    width: 100%;
+  }
+  .welcome p {
+    font-family: 'Abel', sans-serif;
+    color: #9E9E9E;
+    font-size: 16px;
+  }
+  
+  .welcome .mybtn {
+    background: #17B9EA;
+    padding: 10px 50px;
+    color: #fff;
+    border-radius: 0;
+    font-family: 'Abel', sans-serif;
+    cursor: pointer;
+  }
+  
+  .welcome .row {
+    margin-bottom: 50px;
+  }
+  
+  .welcome .row .item1 {
+    margin-bottom: 20px;
+  }

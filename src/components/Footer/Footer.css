@@ -1,0 +1,19 @@
+/*Start Footer*/
+
+.footer {
+    background: #333;
+    color: #fff;
+  }
+  
+  .footer p {
+    font-family: 'Abel', sans-serif;
+    font-size: 15px;
+    padding: 15px;
+    margin: 0;
+  }
+  
+  .footer span {
+    font-family: 'Niconne', cursive;
+    font-size: 20px;
+    color: #17B9EA;
+  }
